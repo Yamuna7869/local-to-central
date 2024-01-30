@@ -1,0 +1,5 @@
+public class Selenium
+{
+int i= 10;
+int j= 20;
+}
